@@ -1,0 +1,26 @@
+{
+  "name": "elliot.codes",
+  "description": "Personal Website",
+  "main": "index.js",
+  "directory": "./source/www/bower_components",
+  "authors": [
+    "Elliot Mendiola"
+  ],
+  "license": "MIT",
+  "homepage": "elliot.codes",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-animate": "^1.5.6",
+    "angular-aria": "^1.5.6",
+    "angular-messages": "^1.5.6",
+    "angular-material": "^1.0.9"
+  }
+}
